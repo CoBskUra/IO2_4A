@@ -1,0 +1,11 @@
+Formatowanie kodu:
+	Nazwy metod: zaczynamy z dużej
+	prywatne zmaienne: zaczynamy od _
+	publiczne zmienne: z dużej litery
+	Publiczne rzeczy: urzywają CamelCase
+	Wszystkie zmienne: opisowe nazwy
+	Wszystkie funkcje: krótkie
+	nazwy zmiennych: angielskie
+	język komentarzy: angielki
+Azure
+	Prośby o reviure: 2 osoby poza twórcą do maina, 1 osoba poza twórcą do deva
